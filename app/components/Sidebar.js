@@ -14,7 +14,7 @@ import heart from '../../public/bxs_donate-heart.svg'
 
 function Sidebar() {
     return (
-      <aside className="flex flex-col   justify-between items-center bg-white w-[100px] h-[927px] rounded-[24px] p-7 text-white font-medium ml-10">
+      <aside className="flex flex-col   justify-between items-center bg-white w-[100px] h-[927px] rounded-[24px] p-7 text-white font-medium">
      <div className="w-[73px] h-[73px]">
       <Image  src={logo} alt="Logo"  width={73} height={73}/>
      </div>
