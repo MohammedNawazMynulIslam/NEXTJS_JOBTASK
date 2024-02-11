@@ -4,7 +4,7 @@ import Image from 'next/image'
 export const Categories = () => {
   return (
     <>
-    <aside className='w-[429px] h-[890px] flex flex-col bg-black'>
+    <aside className='w-[429px] h-[890px] flex flex-col border-black'>
         {/* category head */}
         <h1 className='flex justify-center items-center  px-[124px] py-5 text-center rounded-t-xl text-white text-[17px] font-semibold bg-[#1FA45B;]'>Categories
         </h1>

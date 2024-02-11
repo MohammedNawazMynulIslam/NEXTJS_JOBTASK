@@ -10,9 +10,9 @@ export default function Home() {
       <Header />
       <div className="grid grid-cols-12 mt-6">
         {/* Sidebar */}
-        <div className="ml-5">
+        
           <Sidebar />
-        </div>
+
         {/* Main Content Section */}
         <div className="container col-span-9 grid grid-cols-12  mt-8">
           {/* Categories */}
